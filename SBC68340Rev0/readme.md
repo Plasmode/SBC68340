@@ -1,8 +1,18 @@
 # SBC68340 Rev0
 The prototype design was converted to pc board using WinDraft to capture schematic and WinBoard to lay out pc board.
 ![rev0pcb](SBC68340_rev0_topview.jpg)
+
 ### Features
-place holder
+- MC68340 Integrated Processor
+  - 2 serial ports MC68681 compatible
+  - 2 counter/timers
+  - system integration module
+  - 145-pin PGA
+- 24MHz system clock
+- 256KB 16-bit wide RAM
+- 64KB 8-bit boot flash
+- 100mm X 100mm PC board with prototype area
+- RC2014-like I/O expansion bus
 
 ### Design Files
 - [Schematic](sbc68340_rev0_scm.pdf)
