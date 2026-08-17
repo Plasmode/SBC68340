@@ -11,8 +11,9 @@ The prototype design was converted to pc board using WinDraft to capture schemat
 - 24MHz system clock
 - 256KB 16-bit wide RAM
 - 64KB 8-bit boot flash
-- 100mm X 100mm PC board with prototype area
+- Support CP/M68K
 - RC2014-like I/O expansion bus
+- 100mm X 100mm PC board with prototype area
 
 ### Design Files
 - [Schematic](sbc68340_rev0_scm.pdf)
