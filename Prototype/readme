@@ -4,11 +4,6 @@
 ![2004prototype](68340_prototype_circa2004.jpg)
 
 ### Introduction
-MC68340 is a member of CPU32 family which are microcontrollers based on MC68000 core. I bought several tubes of surplus MC68340 20+ years ago and built up a prototype board to check it out and then forgot about it. 
-My interest is rekindled by recent discussion about  and managed to find the 68340 prototype board. 
-I've made further progress with the prototype adding a boot ROM, IO clock and serial port interface; I've ported a simple monitor and ported TUTOR v1.3 to the prototype board; and I've designed a pc board version. Before putting away the prototype board (like the last scene of “Raider of Lost Ark”), I'm documenting what I did with this prototype.
-![prototype_added_bootROM](proto68340_added_bootROM_annotated_f.jpg)
-
 
 Schematic
 
