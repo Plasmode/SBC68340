@@ -10,6 +10,6 @@ I've made further progress with the prototype adding a boot ROM, IO clock and se
 ![prototype_added_bootROM](proto68340_added_bootROM_annotated_f.jpg)
 
 
-Schematic
+[Schematic](proto68340_added_bootROM_scm.pdf)
 
-340Bug and Tutor v1.3 in boot flash
+[340Bug and Tutor v1.3](proto68340_software_340bug_and_tutor.zip) in boot flash
