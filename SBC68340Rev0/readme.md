@@ -5,8 +5,8 @@ The prototype design was converted to pc board using WinDraft to capture schemat
 place holder
 
 ### Design Files
-- Schematic
-- Gerber photoplots
+- [Schematic](sbc68340_rev0_scm.pdf)
+- [Gerber photoplots](sbc68340_rev0_gerber.zip)
 - Bills of materials
 
 ### Software
