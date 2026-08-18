@@ -29,7 +29,7 @@ The prototype design was converted to pc board using WinDraft to capture schemat
 
 - Gkermit for drive B. Load this s-record before issuing 'bo' command. Gkermit.68K will show up in drive B. ←note, gkermit won't work at 115200 baud. The serial clock should be 614400hz to enable 38.4K baud serial communication to run gkermit file transfer.
 
-## SBC68340 Projects
+## SBC68340 Engineering Changes
 Enable RC2014 expansion bus
 The P6 connector was originally designed as test connector for logic analyzer. Its pin assignments are similar to 40-pin RC2014 expansion bus, but there are significant differences that prevent interface with standard RC2014 expansion boards. Here are lists of engineering changes to enable RC2014 boards.
 
